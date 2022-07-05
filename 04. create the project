@@ -1,0 +1,9 @@
+01. create the folder to store the project
+02. open terminal in there and type 
+    "flutter create project_name"
+
+03.open project in VS code application
+04. open 'lib/main.dart' file
+05. install 'flutter'  extension for VS code
+06. connect any device 
+07. run 'flutter doctor'
