@@ -1,0 +1,21 @@
+01. Open 
+    "flutter.dev"
+
+02. press "Get Started"
+03. Download "SDK" file
+04. extract the .zip file
+05. paste the file to any location in C partision
+06. open the coppied folder
+07. go to "../flutter/bin" location [open bin folder]
+08. copy the file path
+09.open Control pannel
+10. Control Panel >> User Accounr >> Change my Environment variables
+11. "Environment Variables" window will opens
+12. select "path" in 'User variables for user'
+13. Click on 'edit' button
+14. click on 'New" button and paste it to there
+15. click 'ok' to allows
+16. open "comand Prompt"
+17. open as 'run as administrator'
+18. type 'flutter' and pess Enter
+19. type 'flutter doctor'
