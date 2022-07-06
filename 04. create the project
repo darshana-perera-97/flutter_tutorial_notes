@@ -7,3 +7,14 @@
 05. install 'flutter'  extension for VS code
 06. connect any device 
 07. run 'flutter doctor'
+
+
+
+create a flutter project in VS Code
+
+01. open VS Code
+02. Press [ Ctrl + P ]
+03. type '>' sybol on the comming text area
+04. select 'flutter new project' option in the drop down list
+05. asign aname for the project
+06. select saving file location
